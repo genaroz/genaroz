@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about anything
 - 💞️ I’m looking to collaborate on solutions that bring value to citizens of all accross the world
 - 📫 How to reach me @LTALabs
-- ⚡ Fun fact: I stopped coding 20 years ago, for the sake of humanity :D
+- ⚡ Fun fact: I stopped coding in a formal way 20 years ago, for the sake of humanity :D
 
 <!---
 genaroz/genaroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
